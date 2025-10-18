@@ -46,7 +46,7 @@ def search_products(brand, color, min_price, max_price):
 
 
 #Upload CSV Section
-st.header("📤 Upload Product CSV")
+st.header("Upload Product CSV")
 uploaded_file = st.file_uploader(
     "Choose a CSV file to upload",
     type="csv",
