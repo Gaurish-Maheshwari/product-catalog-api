@@ -90,6 +90,10 @@ The web interface will be available at http://localhost:8501
 
 This method runs the backend API inside a Docker container.
 
+* Run this command in Terminal to get the image : docker pull cryptic25/products-api
+
+OR
+
 1. Build the Docker Image:  
 From the project root, run:
 
