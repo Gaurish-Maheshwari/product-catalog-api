@@ -22,14 +22,14 @@ A complete solution for managing a **product catalog**, featuring a robust **Fas
 ## Project Structure
 
 .
-├── Dockerfile              # Defines the Docker image for the backend API  
-├── frontend.py             # Streamlit frontend application  
-├── main.py                 # FastAPI backend application  
-├── products.csv            # Sample CSV data for testing  
-├── products.db             # SQLite database (created on first run)  
-├── README.md               # Project documentation  
-├── requirements.txt        # Python dependencies  
-└── test_main.py            # Unit tests (pytest)
+├── Dockerfile              
+├── frontend.py             
+├── main.py                
+├── products.csv            
+├── products.db             
+├── README.md               
+├── requirements.txt        
+└── test_main.py            
 
 ---
 
