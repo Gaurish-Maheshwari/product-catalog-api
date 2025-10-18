@@ -46,8 +46,8 @@ A complete solution for managing a **product catalog**, featuring a robust **Fas
 
 1. Clone the repository:
 
-git clone [Link](https://github.com/Gaurish-Maheshwari/product-catalog-api.git)
-cd product-catalog-api  
+* git clone https://github.com/Gaurish-Maheshwari/product-catalog-api.git
+* cd product-catalog-api  
 
 2. Create and activate a virtual environment:
 
@@ -66,7 +66,7 @@ You can run the application in two ways: locally for development or using Docker
 
 ---
 
-### Method 1: Local Development (Recommended)
+### Method 1: Local Development
 
 This method allows you to run both the backend and frontend and see code changes live.
 
